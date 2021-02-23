@@ -11,11 +11,11 @@ Linode Server Control Panel
 
 ### API Request
 
-![](../../blob/main/images/Request.png)
+!['API Request'](https://raw.githubusercontent.com/AntSmithCode/Server_Control_Panel/main/images/Request.PNG)
 
 ### Test Server
 
-![](../../blob/main/images/server.png)
+!['Server Tested'](https://github.com/AntSmithCode/Server_Control_Panel/blob/main/images/server.PNG)
 
 ### Feature
 - Add a server
