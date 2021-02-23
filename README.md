@@ -10,10 +10,11 @@ Linode Server Control Panel
 [Linode API](https://www.linode.com/docs/api/)
 
 ### API Request
+![](./imgs/Request.PNG)
 
 
 ### Test Server
-
+![](./imgs/server.PNG)
 
 ### Feature
 - Add a server
@@ -21,3 +22,6 @@ Linode Server Control Panel
 - Change VM Name 
 - Power on Server or Reboot
 - Connect via VNC 
+
+
+### Design
