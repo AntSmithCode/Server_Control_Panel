@@ -4,7 +4,8 @@ Linode Server Control Panel
 ### Tech Stack
 - Node.js
 - 0Auth
-- tailwind.css
+- tailwind.css optional
+- MongoDB
 
 ### API
 [Linode API](https://www.linode.com/docs/api/)
@@ -26,3 +27,6 @@ Linode Server Control Panel
 
 
 ### Design
+- [InvisionAPP](https://www.invisionapp.com/)
+- [Figma](https://www.figma.com/)
+  
