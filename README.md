@@ -10,12 +10,14 @@ Linode Server Control Panel
 [Linode API](https://www.linode.com/docs/api/)
 
 ### API Request
-![](./images/Request.png)
+
+![Request for API](./images/Request.png)
 
 
 
 ### Test Server
-![](./images/server.png)
+
+![Server Being Tested](./images/server.png)
 
 ### Feature
 - Add a server
