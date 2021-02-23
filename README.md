@@ -11,11 +11,11 @@ Linode Server Control Panel
 
 ### API Request
 
-![](../../blob/master/images/Request.png)
+![](../../blob/main/images/Request.png)
 
 ### Test Server
 
-![](../../blob/master/images/server.png)
+![](../../blob/main/images/server.png)
 
 ### Feature
 - Add a server
